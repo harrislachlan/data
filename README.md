@@ -2,7 +2,7 @@
 # Alzheimers Disease
 
 ## Arber et al., 2020
-The directory [scripts/](scripts/) contains 3 R scripts corresponding to the upcoming publication **Familial Alzheimer’s disease mutations in PSEN1 lead to premature human stem cell**. 
+The directory [scripts/](scripts/) contains 3 R scripts corresponding to the upcoming publication **Familial Alzheimer’s disease mutations in PSEN1 lead to premature human stem cell neurogenesis**. 
 
 The scripts analyse a published dataset of scRNA-seq from [Hochgerner and colleague (2018)](https://www.nature.com/articles/s41593-017-0056-2) from the mouse hippocampus by examining the expression of AD genes along the adult hippocampal neurogenic lineage.
 
