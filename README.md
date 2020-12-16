@@ -8,6 +8,6 @@ The scripts analyse a published dataset of scRNA-seq from [Hochgerner and collea
 
 The count matrix can be accessed from the **Gene Expression Omnibus** [GSE95315](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE95315) by downloading the GSE95315_10X_expression_data_v2.tab.gz file. 
 
-Data shared by [Charlier Arber](https://scholar.google.com/citations?user=h9X1WlAAAAAJ&hl=en), Senior Research Fellow, UCL Institute of Neurology, London, UK.
+Data shared by [Charlie Arber](https://scholar.google.com/citations?user=h9X1WlAAAAAJ&hl=en), Senior Research Fellow, UCL Institute of Neurology, London, UK.
 
 Link to publication coming soon. 
